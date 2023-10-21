@@ -1,0 +1,5 @@
+name: EconomyapiNaNFixer
+main: top.xielongowner.EconomyapiNaNFixer.MainClass
+version: "1.0.0"
+author: XieLongOwner
+api: ["1.0.0"]
